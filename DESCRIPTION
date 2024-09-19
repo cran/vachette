@@ -1,6 +1,6 @@
 Package: vachette
 Title: A Method for Visualization of Pharmacometric Models
-Version: 0.40.0
+Version: 0.40.1
 Authors@R: c(
       person("Jos", "Lommerse", email = "jos.lommerse@gmail.com", role = c("aut")),
       person("Anna", "Largajolli", email = "anna.largajolli@certara.com", role = c("aut")),
@@ -31,7 +31,7 @@ Imports: ggplot2, tidyr, dplyr, magrittr, prospectr, Hmisc, purrr,
         minpack.lm, progress, rlang, utils, photobiology
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-09-04 03:31:27 UTC; jcraig
+Packaged: 2024-09-18 16:54:29 UTC; jcraig
 Author: Jos Lommerse [aut],
   Anna Largajolli [aut],
   James Craig [aut, cre],
@@ -41,4 +41,4 @@ Author: Jos Lommerse [aut],
   Certara USA, Inc. [cph, fnd]
 Maintainer: James Craig <james.craig@certara.com>
 Repository: CRAN
-Date/Publication: 2024-09-09 08:50:02 UTC
+Date/Publication: 2024-09-19 05:50:02 UTC

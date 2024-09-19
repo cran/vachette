@@ -1,4 +1,4 @@
-4aeb70d3557e8b585c4dfdd8ae4eaa54 *DESCRIPTION
+f8127ac27b828c337b232c14f787edff *DESCRIPTION
 adeee1b9083f3530ba34e7ef12575ab2 *NAMESPACE
 37948d40b295c589efb3e1bc2b35e7ff *R/plotting.R
 903923543d2e8c9588c61595633d819b *R/utilities.R
@@ -32,4 +32,4 @@ ccd55e65f90ece82128630b30454d04a *man/summary.vachette_data.Rd
 4cb9b0b6f7b35d5ce389bbc4946cf6b0 *tests/testthat.R
 46f4fa3731ca95448d203e85ca55bc1a *tests/testthat/test_mappings.R
 d3bc6cbbc2b6e55857d590cd24e5860b *tests/testthat/test_process_covariates.R
-331c31be055f22962541ac978a129daa *tests/testthat/test_vachette_transformations.R
+f3e8873a7a0abb72f24bf849832731c6 *tests/testthat/test_vachette_transformations.R
